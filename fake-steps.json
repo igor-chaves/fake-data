@@ -1,4 +1,4 @@
-const stepsArr = [
+[
   {
     id: crypto.randomUUID(),
     description: "Entender o problema do cliente",
