@@ -1,14 +1,14 @@
 [
   {
-    id: 111,
-    description: "Entender o problema do cliente",
+    "id": 111,
+    "description": "Entender o problema do cliente"
   },
   {
-    id: 222,
-    description: "Desenvolver a solução do problema",
+    "id": 222,
+    "description": "Desenvolver a solução do problema"
   },
   {
-    id: 333,
-    description: "Repetir até o cliente ficar feliz e encher seu 🍑 de dinheiro",
-  },
+    "id": 333,
+    "description": "Repetir até o cliente ficar feliz e encher seu 🍑 de dinheiro"
+  }
 ]
